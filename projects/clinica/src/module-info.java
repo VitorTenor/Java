@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vitortenorio
+ *
+ */
+module clinica {
+}
